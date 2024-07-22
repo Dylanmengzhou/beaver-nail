@@ -12,7 +12,7 @@ export default function Home() {
         {/* Welcome to the Nail Salon */}
       </h1>
       <Link href="./booking">
-        <Button className="hover:bg-white hover:text-black bg-transparent rounded-sm h-15 p-5 text-4xl mt-10">
+        <Button className="hover:bg-white hover:text-black bg-transparent rounded-sm h-15 p-5 text-4xl mt-10 bg-black">
           Chat Right Now
         </Button>
       </Link>
