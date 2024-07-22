@@ -13,7 +13,7 @@ export default function Home() {
       </h1>
       <Link href="./booking">
         <Button className="hover:bg-white hover:text-black bg-transparent rounded-sm h-15 p-5 text-4xl mt-10">
-          Book Now
+          Chat Right Now
         </Button>
       </Link>
     </main>
